@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Elements
+title: Resume
+image: assets/images/img2.jpg
 nav-menu: true
 ---
 
@@ -11,7 +12,7 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h1>Elements</h1>
+			<h1>Resume</h1>
 		</header>
 
 <!-- Content -->
@@ -43,8 +44,8 @@ nav-menu: true
 
 <hr class="major" />
 
-<!-- Elements -->
-<h2 id="elements">Elements</h2>
+<!-- Resume -->
+<h2 id="Resume">Resume</h2>
 <div class="row 200%">
 	<div class="6u 12u$(medium)">
 
