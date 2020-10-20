@@ -102,5 +102,20 @@ nav-menu: true
 		</div>
 	</section>
 	<section>
+		<a href="portfolio.html" class="image">
+			<img src="assets/images/charging.gif" alt="" data-position="top center" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Cellphone Charging Station using Raspberry Pi</h3>
+				</header>
+				<p>Built a cellphone charger and entertainment station using Raspberry Pi 3 and a coin sensor. The idea was to detect the value of the coin and charge the cellphone for a pre-programmed amount of time accordingly. Along with the peripheral devices, I also programmed a floppy bird game and snake-maze game along with a jukebox into the Pi. The user could select their mode of entertainment while the phone would charge. Since the Pi operates at a fairly low voltage, the idea was to potentially install the system in railweay stations and airports to provide low cost entertainment and charging facilities to the users.   <br />
+ <b>Tech used: Python, C</b></p>
+				<p><iframe width="560" height="315" src="https://www.youtube.com/embed/FclGnrLOyYU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+			</div>
+		</div>
+	</section>
+	<section>
 		
 
